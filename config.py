@@ -11,12 +11,12 @@ API_HASH = os.environ.get("API_HASH", "79e5caa103a9e9fb0183390b4800845d")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "6283322330"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://Venkat3823:Venkat3823@cluster0.ig0oc9y.mongodb.net/?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DB_NAME", "pream2")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://ganeshganesh177:17032009@sasukeuchiha.k21bh.mongodb.net/?retryWrites=true&w=majority&appName=Sasukeuchiha")
+DB_NAME = os.environ.get("DB_NAME", "Sasukeuchiha")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002368081239"))
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002316059107"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002683294981"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002634883335"))
 
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
