@@ -5,7 +5,7 @@ from logging.handlers import RotatingFileHandler
 
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8026281189:AAFECHvmdtPcqsMMYkwU3N9own_Pq5HaVxw")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8026281189:AAGVuA4nCe4KgLDy7BFW0Kq4bwWo-9oJuKI")
 API_ID = int(os.environ.get("API_ID", "20902603"))
 API_HASH = os.environ.get("API_HASH", "79e5caa103a9e9fb0183390b4800845d")
 
